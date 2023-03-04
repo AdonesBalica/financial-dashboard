@@ -7,7 +7,7 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
   body {
-    font-family: Open-Sans, Helvetica, Sans-Serif;
+    font-family: 'Inter', sans-serif;
   }
 `;
 
